@@ -1,0 +1,49 @@
+{
+  "Cars": {
+    "JSHD4325JSIT56JF0": {
+      "category": "Sedan",
+      "make": "Honda",
+      "model": "Accord",
+      "color": "Silver",
+      "year": 2025,
+      "mileage": 150000,
+      "performance_tires": "True",
+      "hybrid_engine": "True",
+      "abs_ready": "True"
+    },
+    "JSHD4325JSIT56JF1": {
+      "category": "Truck",
+      "make": "Chevrolet",
+      "model": "Silverado",
+      "color": "Green",
+      "year": 2023,
+      "mileage": 150000,
+      "offroad_tires": "True",
+      "diesel_engine": "True",
+      "pickup_body": "True",
+      "HP": "350"
+    },
+    "JSHD4325JSIT56JF2": {
+      "category": "Sedan",
+      "make": "Nissan",
+      "model": "Altima",
+      "color": "Gray",
+      "year": 2020,
+      "mileage": 20000,
+      "performance_tires": "True",
+      "hybrid_engine": "True",
+      "abs_ready": "True"
+    },
+    "JSHD4325JSIT56JF6": {
+      "category": "Sedan",
+      "make": "nissan",
+      "model": "versa",
+      "color": "ruby",
+      "year": 2014,
+      "mileage": 10000,
+      "performance_tires": "False",
+      "hybrid_engine": "False",
+      "abs_ready": "False"
+    }
+  }
+}
